@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git log:*)",
+      "Bash(echo:*)",
+      "Bash(where:*)",
+      "Bash(node --version:*)",
+      "Bash(bash:*)",
+      "Bash(git -C \"C:\\Users\\sswanson\\workspace\\superpowers\" remote -v)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
